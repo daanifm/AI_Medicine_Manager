@@ -20,7 +20,7 @@ def init_client():
     chroma_client = chromadb.Client()
     # Create or get the collection
     collection = chroma_client.get_or_create_collection(name="medicina_manager")
-    api_key = "AIzaSyAv7fekn85pn48vzYYLjqIx0bpL90CsTZU"
+    api_key = "Your gemini api key"
     genai.configure(api_key=api_key)
 
     model = genai.GenerativeModel('gemini-2.0-flash')
