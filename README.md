@@ -118,7 +118,7 @@ Interfaz moderna y conectada al backend con:
 ## 📫 Contacto
 
 ¿Tienes dudas o sugerencias?  
-Puedes escribirme por [LinkedIn](www.linkedin.com/in/daniel-foronda-melchor).
+Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/daniel-foronda-melchor).
 
 ---
 
