@@ -21,7 +21,7 @@ Todo con respuestas naturales y contextualizadas gracias a un modelo LLM y almac
 
 ### 🚀 Modelo de Lenguaje (LLM)
 
-Este asistente utiliza **Gemini 1.5 Pro** a través de Gemini API, lo cual permite:
+Este asistente utiliza **Gemini 2.0 Flash** a través de Gemini API, lo cual permite:
 
 - ✅ Comprensión contextual de instrucciones médicas.
 - ✅ Razonamiento lógico para respuestas clínicas simples.
